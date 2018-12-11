@@ -1,5 +1,11 @@
 # Responder.py #
 
+![issues](https://img.shields.io/github/issues/SpiderLabs/Responder.svg)
+![forks](https://img.shields.io/github/forks/SpiderLabs/Responder.svg)
+![stars](https://img.shields.io/github/stars/SpiderLabs/Responder.svg)
+![license](https://img.shields.io/github/license/SpiderLabs/Responder.svg)
+[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](http://inventory.rawsec.ml/tools.html#Responder)
+
 LLMNR/NBT-NS/mDNS Poisoner
 
 Author: Laurent Gaffie <laurent.gaffie@gmail.com > http://www.spiderlabs.com
